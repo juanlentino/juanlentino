@@ -1,6 +1,8 @@
 ### Records are made by many hands. The credits rarely survive the trip.
 
-I'm Juan. I've spent 15+ years making records between Buenos Aires and the U.S., founded Panacea Studio along the way, and have worked on about 110 releases since 2022 ([credits verified](https://juanlentino.com/music/)). Now I research how to prove who made what, at the moment it's made.
+I'm Juan. I've spent 15+ years making records between Buenos Aires and the U.S., founded Panacea Studio along the way, and have worked on about 110 releases since 2022 ([credits verified](https://juanlentino.com/music/)). 
+
+Now I research how to prove who made what, at the moment it's made.
 
 The short version: **detection guesses, provenance proves.** I write the papers, then build the small open tools that test them.
 
