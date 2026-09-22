@@ -1,26 +1,28 @@
-### Hi, I'm Juan.
+### Records are made by many hands. The credits rarely survive the trip.
 
-I founded Panacea Studio in Buenos Aires and have spent 15+ years
-making records between Argentina and the U.S. Now I research who made
-what in music, and why provenance signed at creation outlasts detection.
-I build small, open tools around that question.
+I'm Juan. I've spent 15+ years making records between Buenos Aires and the U.S., and founded Panacea Studio along the way. Now I research how to prove who made what, at the moment it's made.
 
-Voting member of the Recording Academy and the Latin Recording Academy.
-Reviewer for LAMIR 2026.
+The short version: **detection guesses, provenance proves.** I write the papers, then build the small open tools that test them.
 
-**Tools**
-- [**Sealed Record**](https://github.com/juanlentino/sealedrecord): verify a sealed session record (hash chain, Ed25519 signatures, time receipts, audio anchors). CLI, library, and a [browser verifier](https://juanlentino.github.io/sealedrecord/)
-- [**Signal & Noise**](https://github.com/juanlentino/signal-and-noise) + [**tools**](https://github.com/juanlentino/signal-and-noise-tools): the theme and plugin running juanlentino.com
-- [**Provenance ledger**](https://github.com/juanlentino/signal-and-noise-provenance): a public, append-only record of every note I publish
-- [**Rights signals worker**](https://github.com/juanlentino/sn-rights-signals-worker): one machine-readable AI rights position across TDMRep, RSL, and Content Signals
-- [**Connector for TypeSafe Jev**](https://github.com/juanlentino/jev-connector): WordPress 7.0 connector for TypeSafe's System One API
+**Try it**
 
-**Contributions**
-- Merged PRs to [WordPress/openstation](https://github.com/WordPress/openstation)
+npx sealedrecord verify record.json take.wav
 
-**Papers** (SSRN)
-- [Provenance Over Detection](https://ssrn.com/abstract=6402298)
-- [Provenance as Substrate](https://ssrn.com/abstract=6730343)
-- [Provenance Without Institutions](https://ssrn.com/abstract=7456638)
+
+[**Sealed Record**](https://github.com/juanlentino/sealedrecord) checks a sealed session record end to end: hash chain, Ed25519 signatures, time receipts, and whether an audio file is the take it claims to be. No account, no server. Prefer a browser? [Drop a record here.](https://juanlentino.github.io/sealedrecord/)
+
+**Also building**
+- [**Signal & Noise**](https://github.com/juanlentino/signal-and-noise) + [**tools**](https://github.com/juanlentino/signal-and-noise-tools): the brutalist theme and plugin behind juanlentino.com
+- [**Provenance ledger**](https://github.com/juanlentino/signal-and-noise-provenance): every note I publish, signed and appended in public
+- [**Rights signals**](https://github.com/juanlentino/sn-rights-signals-worker): one machine-readable AI rights position, served at the edge
+- [**Connector for TypeSafe Jev**](https://github.com/juanlentino/jev-connector): typed AI answers for WordPress 7.0
+- Contributor to [**WordPress/openstation**](https://github.com/WordPress/openstation), which turns wp-admin into a desktop OS
+
+**Reading list** (SSRN)
+[Provenance Over Detection](https://ssrn.com/abstract=6402298) ·
+[Provenance as Substrate](https://ssrn.com/abstract=6730343) ·
+[Provenance Without Institutions](https://ssrn.com/abstract=7456638)
+
+Voting member, Recording Academy and Latin Recording Academy · Reviewer, LAMIR 2026
 
 [juanlentino.com](https://juanlentino.com) · [ORCID](https://orcid.org/0009-0006-8151-5920)
