@@ -1,6 +1,6 @@
 ### Records are made by many hands. The credits rarely survive the trip.
 
-I'm Juan. I've spent 15+ years making records between Buenos Aires and the U.S., and founded Panacea Studio along the way. Now I research how to prove who made what, at the moment it's made.
+I'm Juan. I've spent 15+ years making records between Buenos Aires and the U.S., founded Panacea Studio along the way, and have worked on about 110 releases since 2022 ([credits verified](https://juanlentino.com/music/)). Now I research how to prove who made what, at the moment it's made.
 
 The short version: **detection guesses, provenance proves.** I write the papers, then build the small open tools that test them.
 
@@ -23,7 +23,8 @@ npx sealedrecord verify record.json take.wav
 **Reading list**
 - Start at the [**provenance hub**](https://juanlentino.com/provenance/): the whole argument, in plain language
 - Then the papers on SSRN: [Provenance Over Detection](https://ssrn.com/abstract=6402298) · [Provenance as Substrate](https://ssrn.com/abstract=6730343) · [Provenance Without Institutions](https://ssrn.com/abstract=7456638)
+- Or the [**notes**](https://juanlentino.com/notes/): shorter essays on the same questions
 
-Voting member, Recording Academy and Latin Recording Academy · Reviewer, LAMIR 2026
+MBA in Applied AI · Voting member, Recording Academy and Latin Recording Academy · Reviewer, LAMIR 2026
 
-[juanlentino.com](https://juanlentino.com) · [ORCID](https://orcid.org/0009-0006-8151-5920)
+[juanlentino.com](https://juanlentino.com) · [ORCID](https://orcid.org/0009-0006-8151-5920) · Hablo español.
