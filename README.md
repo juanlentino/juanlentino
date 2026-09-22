@@ -6,6 +6,8 @@ The short version: **detection guesses, provenance proves.** I write the papers,
 
 **Try it**
 ```bash
+curl -sO https://raw.githubusercontent.com/juanlentino/sealedrecord/main/vectors/record.json
+curl -sO https://raw.githubusercontent.com/juanlentino/sealedrecord/main/vectors/take.wav
 npx sealedrecord verify record.json take.wav
 ```
 
