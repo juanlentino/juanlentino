@@ -19,7 +19,7 @@ npx sealedrecord verify record.json take.wav
 - [**Signal & Noise**](https://github.com/juanlentino/signal-and-noise) + [**tools**](https://github.com/juanlentino/signal-and-noise-tools): the brutalist theme and plugin behind juanlentino.com
 - [**Provenance ledger**](https://github.com/juanlentino/signal-and-noise-provenance): every note I publish, signed and appended in public
 - [**Rights signals**](https://github.com/juanlentino/sn-rights-signals-worker): one machine-readable AI rights position, served at the edge
-- [**Connector for TypeSafe Jev**](https://github.com/juanlentino/jev-connector): typed AI answers for WordPress 7.0
+- [**Connector for TypeSafe Jev**](https://github.com/juanlentino/jev-connector): typed, confidence-scored answers for WordPress, no prose to parse
 - Contributor to [**WordPress/openstation**](https://github.com/WordPress/openstation), which turns wp-admin into a desktop OS
 
 **Reading list**
