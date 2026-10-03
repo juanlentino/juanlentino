@@ -22,6 +22,8 @@ npx sealedrecord verify record.json take.wav
 - [**Connector for TypeSafe Jev**](https://github.com/juanlentino/jev-connector): typed, confidence-scored answers for WordPress, no prose to parse
 - Contributor to [**WordPress/openstation**](https://github.com/WordPress/openstation), which turns wp-admin into a desktop OS
 
+All of it engineered with Claude as a pair programmer.
+
 **Reading list**
 - Start at the [**provenance hub**](https://juanlentino.com/provenance/): the whole argument, in plain language
 - Then the papers on SSRN: [Provenance Over Detection](https://ssrn.com/abstract=6402298) · [Provenance as Substrate](https://ssrn.com/abstract=6730343) · [Provenance Without Institutions](https://ssrn.com/abstract=7456638)
