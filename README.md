@@ -20,7 +20,7 @@ npx sealedrecord verify record.json take.wav
 - [**Provenance ledger**](https://github.com/juanlentino/signal-and-noise-provenance): every note I publish, signed and appended in public
 - [**Rights signals**](https://github.com/juanlentino/sn-rights-signals-worker): one machine-readable AI rights position, served at the edge
 - [**Connector for TypeSafe Jev**](https://github.com/juanlentino/jev-connector): typed, confidence-scored answers for WordPress, no prose to parse
-- Contributor to [**WordPress/openstation**](https://github.com/WordPress/openstation), which turns wp-admin into a desktop OS
+- Upstream contributor to [**WordPress/openstation**](https://github.com/WordPress/openstation) (wp-admin as a desktop OS), [**AllTerrain Forms**](https://github.com/AllTerrainDeveloper/forms), and [**MAIA**](https://github.com/AllTerrainDeveloper/MAIA-Media-Asset-Interface-Administration): [see the merged pull requests](https://github.com/search?q=author%3Ajuanlentino+is%3Apr+is%3Amerged+-user%3Ajuanlentino&type=pullrequests)
 
 All of it engineered with Claude as a pair programmer.
 
