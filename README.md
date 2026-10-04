@@ -9,13 +9,15 @@ The short version: **detection guesses, provenance proves.** I write the papers,
 
 **Sealed Record** checks a sealed session record end to end: hash chain, Ed25519 signatures, time receipts, and whether an audio file is the take it claims to be. No account, no server. Prefer a browser? [Drop a record here.](https://juanlentino.github.io/sealedrecord/)
 
-> [!TIP]
-> **Try it** in three commands:
-> ```bash
-> curl -sO https://raw.githubusercontent.com/juanlentino/sealedrecord/main/vectors/record.json
-> curl -sO https://raw.githubusercontent.com/juanlentino/sealedrecord/main/vectors/take.wav
-> npx sealedrecord verify record.json take.wav
-> ```
+<details><summary><b>Prefer the terminal?</b> Verify the sample record in three commands.</summary>
+
+```bash
+curl -sO https://raw.githubusercontent.com/juanlentino/sealedrecord/main/vectors/record.json
+curl -sO https://raw.githubusercontent.com/juanlentino/sealedrecord/main/vectors/take.wav
+npx sealedrecord verify record.json take.wav
+```
+
+</details>
 
 **Latest notes**
 <!-- BLOG-POST-LIST:START -->
