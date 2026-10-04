@@ -29,11 +29,11 @@ The short version: **detection guesses, provenance proves.** I write the papers,
 Upstream contributor to [**WordPress/openstation**](https://github.com/WordPress/openstation) (wp-admin as a desktop OS), [**AllTerrain Forms**](https://github.com/AllTerrainDeveloper/forms), and [**MAIA**](https://github.com/AllTerrainDeveloper/MAIA-Media-Asset-Interface-Administration): [see the merged pull requests](https://github.com/search?q=author%3Ajuanlentino+is%3Apr+is%3Amerged+-user%3Ajuanlentino&type=pullrequests). All of it engineered with Claude as a pair programmer.
 
 <p>
-<img alt="Recording Academy: Voting member" src="https://img.shields.io/badge/Recording_Academy-Voting_member-e00404?style=flat-square&labelColor=0a0a0a">
-<img alt="Latin Recording Academy: Voting member" src="https://img.shields.io/badge/Latin_Recording_Academy-Voting_member-e00404?style=flat-square&labelColor=0a0a0a">
-<img alt="MBA: Applied AI" src="https://img.shields.io/badge/MBA-Applied_AI-e00404?style=flat-square&labelColor=0a0a0a">
-<img alt="LAMIR 2026: Reviewer" src="https://img.shields.io/badge/LAMIR_2026-Reviewer-e00404?style=flat-square&labelColor=0a0a0a">
-<a href="https://orcid.org/0009-0006-8151-5920"><img alt="ORCID: 0009-0006-8151-5920" src="https://img.shields.io/badge/ORCID-0009--0006--8151--5920-e00404?style=flat-square&labelColor=0a0a0a"></a>
-<a href="https://juanlentino.com"><img alt="Web: juanlentino.com" src="https://img.shields.io/badge/Web-juanlentino.com-e00404?style=flat-square&labelColor=0a0a0a"></a>
-<img alt="Hablo: español" src="https://img.shields.io/badge/Hablo-espa%C3%B1ol-e00404?style=flat-square&labelColor=0a0a0a">
+<img alt="Recording Academy: Voting member" src="https://img.shields.io/badge/Recording_Academy-Voting_member-57606a?style=flat-square&labelColor=24292f">
+<img alt="Latin Recording Academy: Voting member" src="https://img.shields.io/badge/Latin_Recording_Academy-Voting_member-57606a?style=flat-square&labelColor=24292f">
+<img alt="MBA: Applied AI" src="https://img.shields.io/badge/MBA-Applied_AI-57606a?style=flat-square&labelColor=24292f">
+<img alt="LAMIR 2026: Reviewer" src="https://img.shields.io/badge/LAMIR_2026-Reviewer-57606a?style=flat-square&labelColor=24292f">
+<a href="https://orcid.org/0009-0006-8151-5920"><img alt="ORCID: 0009-0006-8151-5920" src="https://img.shields.io/badge/ORCID-0009--0006--8151--5920-57606a?style=flat-square&labelColor=24292f"></a>
+<a href="https://juanlentino.com"><img alt="Web: juanlentino.com" src="https://img.shields.io/badge/Web-juanlentino.com-57606a?style=flat-square&labelColor=24292f"></a>
+<img alt="Hablo: español" src="https://img.shields.io/badge/Hablo-espa%C3%B1ol-57606a?style=flat-square&labelColor=24292f">
 </p>
