@@ -16,13 +16,7 @@ npx sealedrecord verify record.json take.wav
 
 </details>
 
-<table>
-<tr><th>Also building</th><th>Reading list</th></tr>
-<tr>
-<td valign="top"><a href="https://github.com/juanlentino/signal-and-noise"><b>Signal & Noise</b></a> + <a href="https://github.com/juanlentino/signal-and-noise-tools"><b>tools</b></a>: the brutalist theme and plugin behind juanlentino.com<br><br><a href="https://github.com/juanlentino/signal-and-noise-provenance"><b>Provenance ledger</b></a>: every note I publish, signed and appended in public<br><br><a href="https://github.com/juanlentino/sn-rights-signals-worker"><b>Rights signals</b></a>: one machine-readable AI rights position, served at the edge<br><br><a href="https://github.com/juanlentino/jev-connector"><b>Connector for TypeSafe Jev</b></a>: typed, confidence-scored answers for WordPress, no prose to parse</td>
-<td valign="top">Start at the <a href="https://juanlentino.com/provenance/"><b>provenance hub</b></a>: the whole argument, in plain language<br><br>Then the papers on SSRN: <a href="https://ssrn.com/abstract=6402298">Provenance Over Detection</a> · <a href="https://ssrn.com/abstract=6730343">Provenance as Substrate</a> · <a href="https://ssrn.com/abstract=7456638">Provenance Without Institutions</a><br><br>Or the <a href="https://juanlentino.com/notes/"><b>notes</b></a>: shorter essays on the same questions</td>
-</tr>
-</table>
+**Reading list:** start at the [**provenance hub**](https://juanlentino.com/provenance/): the whole argument, in plain language. Then the papers on SSRN: [Provenance Over Detection](https://ssrn.com/abstract=6402298) · [Provenance as Substrate](https://ssrn.com/abstract=6730343) · [Provenance Without Institutions](https://ssrn.com/abstract=7456638). Or the [**notes**](https://juanlentino.com/notes/): shorter essays on the same questions.
 
 Upstream contributor to [**WordPress/openstation**](https://github.com/WordPress/openstation) (wp-admin as a desktop OS), [**AllTerrain Forms**](https://github.com/AllTerrainDeveloper/forms), and [**MAIA**](https://github.com/AllTerrainDeveloper/MAIA-Media-Asset-Interface-Administration): [see the merged pull requests](https://github.com/search?q=author%3Ajuanlentino+is%3Apr+is%3Amerged+-user%3Ajuanlentino&type=pullrequests). All of it engineered with Claude as a pair programmer.
 
