@@ -1,0 +1,32 @@
+name: Latest notes
+
+on:
+  schedule:
+    - cron: "17 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: latest-notes
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rewrite the notes list from the feed
+        run: python3 scripts/latest-notes.py
+      - name: Commit if the list changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "No new notes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Latest notes: refresh from juanlentino.com"
+          git push
