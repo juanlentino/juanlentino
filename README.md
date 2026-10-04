@@ -2,9 +2,9 @@
 
 I'm Juan. I've spent 15+ years making records between Buenos Aires and the U.S., founded Panacea Studio along the way, and have worked on about 110 releases since 2022 ([credits verified](https://juanlentino.com/music/)). Now I research how to prove who made what, at the moment it's made.
 
-The short version: **detection guesses, provenance proves.** I write the papers, then build the small open tools that test them.
+The short version: **detection guesses, provenance proves.** I write the papers, then build the small open tools that test them: [**Sealed Record**](https://github.com/juanlentino/sealedrecord), [a public provenance ledger](https://github.com/juanlentino/signal-and-noise-provenance) where every note I publish is signed and appended, [rights signals](https://github.com/juanlentino/sn-rights-signals-worker) serving one machine-readable AI rights position at the edge, a [connector for TypeSafe Jev](https://github.com/juanlentino/jev-connector) with typed, confidence-scored answers for WordPress, and [Signal & Noise](https://github.com/juanlentino/signal-and-noise) + [tools](https://github.com/juanlentino/signal-and-noise-tools), the brutalist theme and plugin behind juanlentino.com.
 
-[**Sealed Record**](https://github.com/juanlentino/sealedrecord) checks a sealed session record end to end: hash chain, Ed25519 signatures, time receipts, and whether an audio file is the take it claims to be. No account, no server. Prefer a browser? [Drop a record here.](https://juanlentino.github.io/sealedrecord/)
+**Sealed Record** checks a sealed session record end to end: hash chain, Ed25519 signatures, time receipts, and whether an audio file is the take it claims to be. No account, no server. Prefer a browser? [Drop a record here.](https://juanlentino.github.io/sealedrecord/)
 
 <details><summary><b>Try it</b></summary>
 
