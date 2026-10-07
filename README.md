@@ -21,9 +21,9 @@ npx sealedrecord verify record.json take.wav
 
 **Latest notes**
 <!-- BLOG-POST-LIST:START -->
+- [Find out who already answered for your catalog](https://juanlentino.com/notes/find-out-who-already-answered-for-your-catalog/)
 - [Before you opt in to an AI music platform](https://juanlentino.com/notes/before-you-opt-in-to-an-ai-music-platform/)
 - [Revocation unsigns nothing](https://juanlentino.com/notes/revocation-unsigns-nothing/)
-- [The form is not part of the process](https://juanlentino.com/notes/the-form-is-not-part-of-the-process/)
 <!-- BLOG-POST-LIST:END -->
 
 **Reading list:** start at the [**provenance hub**](https://juanlentino.com/provenance/): the whole argument, in plain language. Then the papers on SSRN: [Provenance Over Detection](https://ssrn.com/abstract=6402298) · [Provenance as Substrate](https://ssrn.com/abstract=6730343) · [Provenance Without Institutions](https://ssrn.com/abstract=7456638). Or the [**notes**](https://juanlentino.com/notes/): shorter essays on the same questions.
