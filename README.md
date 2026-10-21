@@ -21,9 +21,9 @@ npx sealedrecord verify record.json take.wav
 
 **Latest notes**
 <!-- BLOG-POST-LIST:START -->
+- [Provenance has to stay refusable](https://juanlentino.com/notes/provenance-has-to-stay-refusable/)
 - [The credit that has to stay private](https://juanlentino.com/notes/the-credit-that-has-to-stay-private/)
 - [The honest answer now costs money](https://juanlentino.com/notes/the-honest-answer-now-costs-money/)
-- [The proposal that became MIDI asked to be replaced](https://juanlentino.com/notes/the-proposal-that-became-midi-asked-to-be-replaced/)
 <!-- BLOG-POST-LIST:END -->
 
 **Reading list:** start at the [**provenance hub**](https://juanlentino.com/provenance/): the whole argument, in plain language. Then the papers on SSRN: [Provenance Over Detection](https://ssrn.com/abstract=6402298) · [Provenance as Substrate](https://ssrn.com/abstract=6730343) · [Provenance Without Institutions](https://ssrn.com/abstract=7456638). Or the [**notes**](https://juanlentino.com/notes/): shorter essays on the same questions.
