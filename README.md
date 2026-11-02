@@ -21,9 +21,9 @@ npx sealedrecord verify record.json take.wav
 
 **Latest notes**
 <!-- BLOG-POST-LIST:START -->
+- [When the tool signs itself](https://juanlentino.com/notes/when-the-tool-signs-itself/)
 - [Two valid signatures can disagree](https://juanlentino.com/notes/two-valid-signatures-can-disagree/)
 - [A remix inherits nothing](https://juanlentino.com/notes/a-remix-inherits-nothing/)
-- [The key stays in the drawer](https://juanlentino.com/notes/the-key-stays-in-the-drawer/)
 <!-- BLOG-POST-LIST:END -->
 
 **Reading list:** start at the [**provenance hub**](https://juanlentino.com/provenance/): the whole argument, in plain language. Then the papers on SSRN: [Provenance Over Detection](https://ssrn.com/abstract=6402298) · [Provenance as Substrate](https://ssrn.com/abstract=6730343) · [Provenance Without Institutions](https://ssrn.com/abstract=7456638). Or the [**notes**](https://juanlentino.com/notes/): shorter essays on the same questions.
