@@ -21,9 +21,9 @@ npx sealedrecord verify record.json take.wav
 
 **Latest notes**
 <!-- BLOG-POST-LIST:START -->
+- [The other half of the song grew 3.3 percent](https://juanlentino.com/notes/the-other-half-of-the-song-grew-3-3-percent/)
 - [The brief is the first deliverable](https://juanlentino.com/notes/the-brief-is-the-first-deliverable/)
 - [The augmentation happened outside the studio](https://juanlentino.com/notes/the-augmentation-happened-outside-the-studio/)
-- [When the tool signs itself](https://juanlentino.com/notes/when-the-tool-signs-itself/)
 <!-- BLOG-POST-LIST:END -->
 
 **Reading list:** start at the [**provenance hub**](https://juanlentino.com/provenance/): the whole argument, in plain language. Then the papers on SSRN: [Provenance Over Detection](https://ssrn.com/abstract=6402298) · [Provenance as Substrate](https://ssrn.com/abstract=6730343) · [Provenance Without Institutions](https://ssrn.com/abstract=7456638). Or the [**notes**](https://juanlentino.com/notes/): shorter essays on the same questions.
